@@ -85,8 +85,13 @@
       "flags": {}
     }
   ],
-  "gridDistance": 5,
-  "gridUnits": "m",
+  "grid": [
+    {
+      "distance": 5,
+      "units" : "m",
+      "flags": {}
+    }
+  ],
   "primaryTokenAttribute": "coeur",
   "secondaryTokenAttribute": "amitie",
   "url": "https://github.com/Zakarik/foundry-donjonsetchatons",
